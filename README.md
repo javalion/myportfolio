@@ -1,2 +1,3 @@
-# myportfolio
-This is my professional portfolio
+# Terry McKee's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
